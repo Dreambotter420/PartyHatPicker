@@ -8,13 +8,15 @@ Due to a lack of features in a single picking script on the Dreambot SDN, I made
 
 -Assigns random delay modifier on startup which affects all internal delays so that many accounts can pick at different rates
 
--Chooses an area of the best available areas to Pick from in F2P, and changes this after a random amount of bank deposits
+-Chooses an area of the best available areas to Pick from in F2P then randomizes this after a random amount of bank deposits then randomizes bank deposit threshold
 
--Hops to another random world after a random amount of Picks
+-Hops to another random world after a random amount of Picks then randomizes world hop pick threshold
 
 -While picking, hops to a random world immediately after detecting either a player nearby or another Picker you're competing with
 
 -Sells stuff at GE after accumulating a random amount of stuff
+
+-Enables run if walking and energy level is above a random threshold then randomizes run threshold
 
 -Moves camera up and zooms out after awhile to combat dreambot's camera movement embedded in the API calls
 
@@ -23,4 +25,4 @@ However, all of these features are futile and will absolutely get your fresh F2P
 
 Missing features:
 
--PK Mule after a random threshold using sockets
+-PK Mule after a random total GP threshold using sockets
