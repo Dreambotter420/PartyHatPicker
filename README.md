@@ -8,7 +8,7 @@ Due to a lack of features in a single picking script on the Dreambot SDN, I made
 
 -Assigns random delay modifier on startup which affects all internal delays so that many accounts can pick at different rates
 
--Chooses an area of the top available areas to Pick from in F2P, and changes this after a random amount of bank deposits
+-Chooses an area of the best available areas to Pick from in F2P, and changes this after a random amount of bank deposits
 
 -Hops to another random world after a random amount of Picks
 
