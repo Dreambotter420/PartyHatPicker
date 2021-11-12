@@ -16,6 +16,8 @@ Due to a lack of features in a single picking script on the Dreambot SDN, I made
 
 -Sells stuff at GE after accumulating a random amount of stuff
 
+-Moves camera up and zooms out after awhile to combat dreambot's camera movement embedded in the API calls
+
 However, all of these features are futile and will absolutely get your fresh F2P account banned after doing the above for several hours. To combat this, I have hacked the mainframe, ran the data through IBM Watson and Google DeepMind, and observed the ultimate solution. Your character will strip naked then buy and equip a random-colored partyhat for the entire duration of picking if they have enough money (8k).
 
 
