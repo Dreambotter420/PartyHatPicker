@@ -12,7 +12,7 @@ Due to a lack of features in a single picking script on the Dreambot SDN, I made
 
 -Hops to another random world after a random amount of Picks
 
--Hops to a random world after detecting a player nearby, or another Picker you're competing with
+-While picking, hops to a random world immediately after detecting either a player nearby or another Picker you're competing with
 
 -Sells stuff at GE after accumulating a random amount of stuff
 
