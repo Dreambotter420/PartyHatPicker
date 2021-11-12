@@ -13,4 +13,5 @@ Due to a lack of features in a single picking script on the Dreambot SDN, I made
 However, all of these features are futile and will absolutely get your fresh F2P account banned after doing the above for several hours. To combat this, I have hacked the mainframe, ran the data through Google DeepMind, and have observed the ultimate solution. Your character will strip naked and buy and equip a random-colored partyhat for the entire duration of picking if they have enough money (8k).
 
 Missing features:
+
 -PK Mule after a random threshold using sockets
